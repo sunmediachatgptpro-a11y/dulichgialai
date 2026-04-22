@@ -1,3 +1,3 @@
 # dulichgialai
 
-Khoi tao repository cho du an `dulichgialai`.
+Khoi tao repository va ket noi GitHub.
